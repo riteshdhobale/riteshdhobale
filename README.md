@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning AI,neuralnet and neuroscience
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Apps and web devlopment 
-- 📫 How to reach me ... rd242004@gmail.com or dm me @ritesh_dhobale ig
+- 📫 How to reach me ... rd242004@gmail.com or dm me @riteshimself ig
 
 <!---
 riteshdhobale/riteshdhobale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
