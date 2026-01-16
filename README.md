@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @riteshdhobale just 16 
+- 👋 Hi, I’m @riteshdhobale 
 - 👀 I’m interested in Machine learning AI,neuralnet and neuroscience
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Apps and web devlopment 
