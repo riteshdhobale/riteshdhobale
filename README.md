@@ -10,9 +10,11 @@ I am currently sharpening three tracks at the same time: shipping AI projects, l
 
 | Project | What it shows | Why it matters |
 | --- | --- | --- |
-| [Proxima360 Retail AI Copilot](https://github.com/riteshdhobale/Proxima360_AgenticAi_Chatbot) | Natural-language retail analytics with React, FastAPI, LLM-to-SQL, and business workflows. | Shows applied LLM engineering, backend API design, prompt-to-query flow, and product thinking. |
-| [TalentScout AI](https://github.com/riteshdhobale/talentbot-ai) | AI hiring assistant that collects candidate context and generates targeted technical questions. | Shows full-stack delivery, validation, conversation design, and LLM orchestration. |
-| [FocusTribe](https://focustribe.focustribe-app.workers.dev) | Productivity product in active development. | Shows product ownership, UX thinking, and backend-oriented execution. |
+| [**🛒 Proxima360 Retail AI Copilot**](https://github.com/riteshdhobale/Proxima360_AgenticAi_Chatbot) | Natural-language retail analytics with React, FastAPI, LLM-to-SQL, and business workflows. | Shows applied LLM engineering, backend API design, prompt-to-query flow, and product thinking. |
+| [**📚FocusTribe**](https://focustribe.focustribe-app.workers.dev) | Productivity product in active development. | Shows product ownership, UX thinking, and backend-oriented execution. |
+| [**🧠 NeuroSpark AI**](https://neurosparkai.netlify.app) | AI-powered productivity platform and TechPreneur National Finalist. Designed as a scalable SaaS helping students improve focus and execution. | FastAPI, LangChain, PostgreSQL, Gemini |
+
+| [**👨‍💻 TalentScout AI**](https://github.com/riteshdhobale/talentbot-ai) | AI hiring assistant that collects candidate context and generates targeted technical questions. | Shows full-stack delivery, validation, conversation design, and LLM orchestration. |
 | AI Automation with n8n | Workflow automation experiments for AI-assisted operations. | Shows automation mindset and ability to connect tools into useful systems. |
 
 ## What I am becoming strong at
