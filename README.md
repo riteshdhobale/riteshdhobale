@@ -1,6 +1,10 @@
- # Ritesh Dhobale
-<p align="center">
+<h1 align="center">Hi 👋, I'm Ritesh Dhobale</h1>
 
+<h3 align="center">
+AI Engineer building production-ready LLM applications, agentic AI systems, RAG pipelines, and scalable backend software.
+</h3>
+
+<p align="center">
 🤖 AI Engineering • ⚡ FastAPI • 🧠 Agentic AI • 📚 RAG • 🐍 Python • ⚛️ React
 </p>
 ### AI Engineer building production-ready LLM applications, agentic AI systems, RAG pipelines, and scalable backend software.
@@ -122,9 +126,12 @@ Roadmap
 
 I believe good engineering is not only about writing code—it is about making systems understandable, maintainable, and easy for others to build upon.
 
----
-# 📫 Contact
+---# 📫 Contact
 
-- 📧 **Email** [rd242004@gmail.com](mailto:rd242004@gmail.com)
-- 💼 **LinkedIn:** https://linkedin.com/in/riteshdhobale
-- 💻 **GitHub:** https://github.com/riteshdhobale
+- 📧 **Email:** [rd242004@gmail.com](mailto:rd242004@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/riteshdhobale](https://linkedin.com/in/riteshdhobale)
+- 💻 **GitHub:** [github.com/riteshdhobale](https://github.com/riteshdhobale)
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=riteshdhobale&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
