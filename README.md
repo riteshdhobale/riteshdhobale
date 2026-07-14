@@ -14,6 +14,7 @@ I am currently sharpening three tracks at the same time: shipping AI projects, l
 | [**📚FocusTribe**](https://focustribe.focustribe-app.workers.dev) | Productivity product in active development. | Shows product ownership, UX thinking, and backend-oriented execution. |
 | [**🧠 NeuroSpark AI**](https://neurosparkai.netlify.app) | AI-powered productivity platform and TechPreneur National Finalist. Designed as a scalable SaaS helping students improve focus and execution. | FastAPI, LangChain, PostgreSQL, Gemini |
 | [**👨‍💻 TalentScout AI**](https://github.com/riteshdhobale/talentbot-ai) | AI hiring assistant that collects candidate context and generates targeted technical questions. | Shows full-stack delivery, validation, conversation design, and LLM orchestration. |
+| [**📚 BookVerse AI**](https://bookverse-ai.netlify.app) | National Hackathon Finalist (Top 20 / 500+). AI storytelling platform combining GPT-powered narrative generation with immersive reading and voice experiences. | GPT-4, LangChain, ElevenLabs, React, Netlify |
 | AI Automation with n8n | Workflow automation experiments for AI-assisted operations. | Shows automation mindset and ability to connect tools into useful systems. |
 
 ---
