@@ -1,21 +1,28 @@
  # Ritesh Dhobale
+<p align="center">
 
-### AI builder focused on LLM apps, agentic systems, RAG, and backend engineering
+🤖 AI Engineering • ⚡ FastAPI • 🧠 Agentic AI • 📚 RAG • 🐍 Python • ⚛️ React
+</p>
+### AI Engineer building production-ready LLM applications, agentic AI systems, RAG pipelines, and scalable backend software.
 
-I build practical AI products that turn messy workflows into usable software: chat interfaces, retrieval systems, LLM-backed APIs, automation flows, and product demos that can be explained, run, and improved.
+I build production-focused AI products that transform complex workflows into intuitive software using LLMs, RAG, and backend engineering.
 
-I am currently sharpening three tracks at the same time: shipping AI projects, learning production-grade LLM engineering, and grinding DSA in Python so my fundamentals match my builder energy.
+My work spans natural language interfaces, agentic AI systems, retrieval pipelines, FastAPI services, workflow automation, and modern full-stack applications.
 
-## Best work to review
+I'm passionate about building AI products that are not only intelligent but also production-ready, maintainable, and designed for real-world users.
 
-| Project | What it shows | Why it matters |
-| --- | --- | --- |
-| [**🛒 Proxima360 Retail AI Copilot**](https://github.com/riteshdhobale/Proxima360_AgenticAi_Chatbot) | Natural-language retail analytics with React, FastAPI, LLM-to-SQL, and business workflows. | Shows applied LLM engineering, backend API design, prompt-to-query flow, and product thinking. |
-| [**📚FocusTribe**](https://focustribe.focustribe-app.workers.dev) | Productivity product in active development. | Shows product ownership, UX thinking, and backend-oriented execution. |
-| [**🧠 NeuroSpark AI**](https://neurosparkai.netlify.app) | AI-powered productivity platform and TechPreneur National Finalist. Designed as a scalable SaaS helping students improve focus and execution. | FastAPI, LangChain, PostgreSQL, Gemini |
-| [**👨‍💻 TalentScout AI**](https://github.com/riteshdhobale/talentbot-ai) | AI hiring assistant that collects candidate context and generates targeted technical questions. | Shows full-stack delivery, validation, conversation design, and LLM orchestration. |
-| [**📚 BookVerse AI**](https://bookverse-ai.netlify.app) | National Hackathon Finalist (Top 20 / 500+). AI storytelling platform combining GPT-powered narrative generation with immersive reading and voice experiences. | GPT-4, LangChain, ElevenLabs, React, Netlify |
-| AI Automation with n8n | Workflow automation experiments for AI-assisted operations. | Shows automation mindset and ability to connect tools into useful systems. |
+---
+
+# 🚀 Flagship Projects
+
+| Project | Highlights | Why it matters |
+|---------|------------|----------------|
+| **🛒 [Proxima360 Retail AI Copilot](https://github.com/riteshdhobale/Proxima360_AgenticAi_Chatbot)** | Production-grade retail AI assistant with RAG, NL→SQL, enterprise workflows, and FastAPI backend. | Demonstrates applied LLM engineering, backend architecture, prompt orchestration, enterprise AI development, and product thinking. |
+| **🧠 [NeuroSpark AI](https://neurosparkai.netlify.app)** | AI-powered productivity platform and TechPreneur National Finalist built as a scalable SaaS for students. | Demonstrates AI product development, startup execution, scalable backend engineering, and SaaS architecture. |
+| **🎯 [FocusTribe](https://focustribe.focustribe-app.workers.dev)** | AI-powered collaborative study platform with realtime study rooms, AI study contracts, WebRTC, payments, and cloud-native deployment. | Demonstrates full-stack engineering, realtime systems, AI integration, cloud architecture, and product ownership. |
+| **📚 [BookVerse AI](https://bookverse-ai.netlify.app)** | National Hackathon Finalist (Top 20 / 500+). AI storytelling platform combining GPT-powered narratives with immersive voice experiences. | Demonstrates multimodal AI, creative product design, rapid prototyping, and end-to-end product execution. |
+| **👨‍💻 [TalentScout AI](https://github.com/riteshdhobale/talentbot-ai)** | AI hiring assistant that collects candidate context and generates adaptive technical interviews. | Demonstrates conversational AI, validation workflows, LLM orchestration, and full-stack delivery. |
+| **⚡ AI Automation Lab** | Workflow automation experiments using n8n, AI agents, and backend integrations. | Demonstrates automation-first thinking and practical AI workflow orchestration. |
 
 ---
 
@@ -116,10 +123,8 @@ Roadmap
 I believe good engineering is not only about writing code—it is about making systems understandable, maintainable, and easy for others to build upon.
 
 ---
+# 📫 Contact
 
-# 📫 ## Contact
-
-- 📧 Email:: [rd242004@gmail.com](mailto:rd242004@gmail.com)
-- 💻 GitHub: [github.com/riteshdhobale](https://github.com/riteshdhobale)
--💼 LinkedIn: https://linkedin.com/in/riteshdhobale
-
+- 📧 **Email** [rd242004@gmail.com](mailto:rd242004@gmail.com)
+- 💼 **LinkedIn:** https://linkedin.com/in/riteshdhobale
+- 💻 **GitHub:** https://github.com/riteshdhobale
