@@ -7,7 +7,6 @@ AI Engineer building production-ready LLM applications, agentic AI systems, RAG 
 <p align="center">
 🤖 AI Engineering • ⚡ FastAPI • 🧠 Agentic AI • 📚 RAG • 🐍 Python • ⚛️ React
 </p>
-### AI Engineer building production-ready LLM applications, agentic AI systems, RAG pipelines, and scalable backend software.
 
 I build production-focused AI products that transform complex workflows into intuitive software using LLMs, RAG, and backend engineering.
 
