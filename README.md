@@ -13,36 +13,112 @@ I am currently sharpening three tracks at the same time: shipping AI projects, l
 | [**🛒 Proxima360 Retail AI Copilot**](https://github.com/riteshdhobale/Proxima360_AgenticAi_Chatbot) | Natural-language retail analytics with React, FastAPI, LLM-to-SQL, and business workflows. | Shows applied LLM engineering, backend API design, prompt-to-query flow, and product thinking. |
 | [**📚FocusTribe**](https://focustribe.focustribe-app.workers.dev) | Productivity product in active development. | Shows product ownership, UX thinking, and backend-oriented execution. |
 | [**🧠 NeuroSpark AI**](https://neurosparkai.netlify.app) | AI-powered productivity platform and TechPreneur National Finalist. Designed as a scalable SaaS helping students improve focus and execution. | FastAPI, LangChain, PostgreSQL, Gemini |
-
 | [**👨‍💻 TalentScout AI**](https://github.com/riteshdhobale/talentbot-ai) | AI hiring assistant that collects candidate context and generates targeted technical questions. | Shows full-stack delivery, validation, conversation design, and LLM orchestration. |
 | AI Automation with n8n | Workflow automation experiments for AI-assisted operations. | Shows automation mindset and ability to connect tools into useful systems. |
 
-## What I am becoming strong at
+---
 
-- Agentic AI: tool use, state, workflow routing, guardrails, and measurable outcomes.
-- RAG systems: retrieval quality, chunking strategy, grounding, evaluation, and source-aware answers.
-- LLM backend engineering: FastAPI services, clean API contracts, async workflows, and secure env handling.
-- Product execution: taking an idea from vague workflow to demoable system with docs, screenshots, and CI.
-- DSA in Python: arrays, strings, hashing, stacks, queues, recursion, trees, graphs, DP, and interview-style problem solving.
+# 💼 Experience
 
-## Current build standard
+### AI Engineering Intern — Proxima360 (US)
 
-Every serious repo should make the reviewer understand the system in under two minutes:
+- Built production-focused AI applications using LangChain and OpenAI APIs.
+- Developed Retrieval-Augmented Generation (RAG) pipelines using Weaviate.
+- Built FastAPI backend services for AI-powered business workflows.
+- Worked on NL→SQL generation, inventory automation and enterprise AI tooling.
+- Helped reduce manual processing time through AI-driven workflow automation.
 
-```text
-Problem -> Architecture -> Demo -> Local setup -> Tests/CI -> Roadmap
+---
+
+# 🛠 Technical Expertise
+
+### 🤖 AI Engineering
+
+- Agentic AI
+- Tool Calling
+- Prompt Engineering
+- Structured Outputs
+- AI Workflow Design
+- LLM Evaluation
+
+### 📚 Retrieval-Augmented Generation
+
+- Embeddings
+- Chunking Strategies
+- Vector Databases
+- Hybrid Search
+- Source Grounding
+- Retrieval Evaluation
+
+### ⚙️ Backend Engineering
+
+- Python
+- FastAPI
+- PostgreSQL
+- REST APIs
+- Async Programming
+- Authentication
+- Docker (Learning)
+
+### 🌐 Frontend
+
+- React
+- TypeScript
+- Tailwind CSS
+- Supabase
+- Cloudflare Workers
+
+---
+
+# 📌 Currently Building
+
+- 🚀 Production-grade AI applications
+- 🧠 Agentic AI workflows
+- 📚 Advanced RAG systems
+- 🐍 Python + DSA for Software Engineering Interviews
+- ⚡ AI Automations with n8n
+- 🐳 Docker + CI/CD for AI deployments
+
+---
+
+# 🏆 Highlights
+
+- 💼 AI Engineering Intern @ Proxima360 (US)
+- 🏆 National Hackathon Finalist (Top 20 / 500+) — BookVerse AI
+- 🚀 TechPreneur National Finalist — NeuroSpark AI
+- 🎓 Google Generative AI Certified
+- 🐧 Red Hat Certified (RH124/RH134)
+- 👨‍💼 Head of Finance & Sponsorship — Anantam, PCU
+
+---
+
+# 🎯 Engineering Philosophy
+
+Every serious repository should allow someone to understand the project in under two minutes.
+
+```
+Problem
+    ↓
+Architecture
+    ↓
+Demo
+    ↓
+Tech Stack
+    ↓
+Setup
+    ↓
+Documentation
+    ↓
+Roadmap
 ```
 
-That is the bar I am applying to my GitHub now.
+I believe good engineering is not only about writing code—it is about making systems understandable, maintainable, and easy for others to build upon.
 
-## 2026 focus
+---
 
-- Ship stronger AI projects with live demos and short demo videos.
-- Add Docker, CI, architecture diagrams, and evaluation notes to core repositories.
-- Build a public Python DSA track with clean explanations and pattern-based notes.
-- Go deeper into RAG, agentic workflows, safe SQL generation, and backend reliability.
+# 📫 ## Contact
 
-## Contact
+- 📧 Email:: [rd242004@gmail.com](mailto:rd242004@gmail.com)
+- 💻 GitHub: [github.com/riteshdhobale](https://github.com/riteshdhobale)
+-💼 LinkedIn: https://linkedin.com/in/riteshdhobale
 
-- Email: [rd242004@gmail.com](mailto:rd242004@gmail.com)
-- GitHub: [github.com/riteshdhobale](https://github.com/riteshdhobale)
