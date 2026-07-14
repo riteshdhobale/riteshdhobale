@@ -1,35 +1,46 @@
 # Ritesh Dhobale
 
-### AI engineer building useful, reliable systems with LLMs
+### AI builder focused on LLM apps, agentic systems, RAG, and backend engineering
 
-I turn fuzzy business workflows into software: **agentic assistants**, **LLM-backed backend services**, and practical interfaces that people can actually use. I care about the unglamorous parts too—clear APIs, evaluation, data safety, observability, and a polished developer experience.
+I build practical AI products that turn messy workflows into usable software: chat interfaces, retrieval systems, LLM-backed APIs, automation flows, and product demos that can be explained, run, and improved.
 
-**Currently:** building AI products, deepening my RAG and agent-systems practice, and grinding **DSA in Python** for stronger engineering fundamentals.
+I am currently sharpening three tracks at the same time: shipping AI projects, learning production-grade LLM engineering, and grinding DSA in Python so my fundamentals match my builder energy.
 
-## Selected work
+## Best work to review
 
-| Project | What I built | Engineering focus |
+| Project | What it shows | Why it matters |
 | --- | --- | --- |
-| [Proxima360 Retail AI Copilot](https://github.com/riteshdhobale/Proxima360_AgenticAi_Chatbot) | Natural-language retail analytics with a React client and FastAPI service. | LLM-to-SQL, business workflows, backend integration |
-| [TalentScout AI](https://github.com/riteshdhobale/talentbot-ai) | A conversational hiring assistant that collects candidate context and generates targeted technical questions. | LLM orchestration, validation, full-stack product design |
-| FocusTribe | A productivity product in active development. | Product thinking, user experience, backend systems |
+| [Proxima360 Retail AI Copilot](https://github.com/riteshdhobale/Proxima360_AgenticAi_Chatbot) | Natural-language retail analytics with React, FastAPI, LLM-to-SQL, and business workflows. | Shows applied LLM engineering, backend API design, prompt-to-query flow, and product thinking. |
+| [TalentScout AI](https://github.com/riteshdhobale/talentbot-ai) | AI hiring assistant that collects candidate context and generates targeted technical questions. | Shows full-stack delivery, validation, conversation design, and LLM orchestration. |
+| FocusTribe | Productivity product in active development. | Shows product ownership, UX thinking, and backend-oriented execution. |
+| AI Automation with n8n | Workflow automation experiments for AI-assisted operations. | Shows automation mindset and ability to connect tools into useful systems. |
 
-## What I’m optimizing for
+## What I am becoming strong at
 
-- **Agentic systems:** purposeful tool use, state, guardrails, and measurable outcomes—not “chatbot for everything.”
-- **RAG and LLM engineering:** retrieval quality, prompt design, evals, grounding, and safe failure modes.
-- **Backend engineering:** FastAPI services, clean API contracts, data models, and deployable developer workflows.
-- **Algorithms:** a public Python DSA practice track is next—consistent, well-explained solutions over streak theatre.
+- Agentic AI: tool use, state, workflow routing, guardrails, and measurable outcomes.
+- RAG systems: retrieval quality, chunking strategy, grounding, evaluation, and source-aware answers.
+- LLM backend engineering: FastAPI services, clean API contracts, async workflows, and secure env handling.
+- Product execution: taking an idea from vague workflow to demoable system with docs, screenshots, and CI.
+- DSA in Python: arrays, strings, hashing, stacks, queues, recursion, trees, graphs, DP, and interview-style problem solving.
 
-## Build principles
+## Current build standard
 
+Every serious repo should make the reviewer understand the system in under two minutes:
+
+```text
+Problem -> Architecture -> Demo -> Local setup -> Tests/CI -> Roadmap
 ```
-Problem → small working system → instrumentation → evaluation → iteration
-```
 
-I’m actively seeking opportunities to build and learn with strong AI/product engineering teams. If you are working on something ambitious, let’s talk.
+That is the bar I am applying to my GitHub now.
 
-<p align="center">
-  <a href="mailto:rd242004@gmail.com">Email</a> ·
-  <a href="https://github.com/riteshdhobale">GitHub</a>
-</p>
+## 2026 focus
+
+- Ship stronger AI projects with live demos and short demo videos.
+- Add Docker, CI, architecture diagrams, and evaluation notes to core repositories.
+- Build a public Python DSA track with clean explanations and pattern-based notes.
+- Go deeper into RAG, agentic workflows, safe SQL generation, and backend reliability.
+
+## Contact
+
+- Email: [rd242004@gmail.com](mailto:rd242004@gmail.com)
+- GitHub: [github.com/riteshdhobale](https://github.com/riteshdhobale)
